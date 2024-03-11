@@ -1,0 +1,6 @@
+Dostihy a sázky;false;2
+Šachy;false;1
+Pexeso;false;3
+Dostihy a sázky;false;2
+Šachy;false;1
+Pexeso;false;3
